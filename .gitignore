@@ -1,0 +1,22 @@
+# ROS 2
+build/
+install/
+log/
+
+# Colcon
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
